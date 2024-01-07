@@ -1,3 +1,8 @@
+:root, .MuiPaper-root.jss3.control.MuiPaper-elevation1.MuiPaper-rounded {
+  color-scheme: light dark;
+}
+
+
 div#camelot-container {
 	margin: 20px auto;
 	width: 750px;
@@ -199,4 +204,11 @@ g.highlight {
 
 path.highlight {
 	fill: #7e9ff1 !important;
+}
+
+.MuiTypography-root.MuiFormControlLabel-label.MuiTypography-body1 {
+  font-size: 1.6rem;
+}
+.MuiFormGroup-root.MuiFormGroup-row {
+  margin: 0 2rem;
 }
