@@ -5,5 +5,8 @@ export default {
 	PREVIOUS: "prev",
 	DIAGONAL: "diagonal",
 	SEMITONE: "semitone",
-	DOUBLE_SEMITONE: "doubleSemitone"
+	WHOLE_TONE: "wholeTone",
+	COMPATIBLE: "compatible",
+	COMPATIBLE_AND_ENERGY_BOOST: "compatibleAndEnergyBoost",
+	ENERGY_BOOST: "energyBoost"
 };
