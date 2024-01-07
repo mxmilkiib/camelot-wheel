@@ -38,11 +38,11 @@ export default {
 		prev: "12A",
 		next: "2A",
 		diagonal: ["12B", "2B"],
-		semitone: [
+		wholeTone: [
 			"11A",
 			"3A"
 		],
-		wholeTone: [
+		semitone: [
 			"6A",
 			"8A"
 		],
@@ -94,11 +94,11 @@ export default {
 		prev: "12B",
 		next: "2B",
 		diagonal: ["2A", "12A"],
-		semitone: [
+		wholeTone: [
 			"11B",
 			"3B"
 		],
-		wholeTone: [
+		semitone: [
 			"6B",
 			"8B"
 		],
@@ -151,11 +151,11 @@ export default {
 		prev: "1A",
 		next: "3A",
 		diagonal: ["1B", "3B"],
-		semitone: [
+		wholeTone: [
 			"12A",
 			"4A"
 		],
-		wholeTone: [
+		semitone: [
 			"7A",
 			"9A"
 		],
@@ -208,11 +208,11 @@ export default {
 		prev: "1B",
 		next: "3B",
 		diagonal: ["3A", "1A"],
-		semitone: [
+		wholeTone: [
 			"12B",
 			"4B"
 		],
-		wholeTone: [
+		semitone: [
 			"7B",
 			"9B"
 		],
@@ -265,11 +265,11 @@ export default {
 		prev: "2A",
 		next: "4A",
 		diagonal: ["2B", "4B"],
-		semitone: [
+		wholeTone: [
 			"1A",
 			"5A"
 		],
-		wholeTone: [
+		semitone: [
 			"8A",
 			"10A"
 		],
@@ -322,11 +322,11 @@ export default {
 		prev: "2B",
 		next: "4B",
 		diagonal: ["4A", "2A"],
-		semitone: [
+		wholeTone: [
 			"1B",
 			"5B"
 		],
-		wholeTone: [
+		semitone: [
 			"8B",
 			"10B"
 		],
@@ -379,11 +379,11 @@ export default {
 		prev: "3A",
 		next: "5A",
 		diagonal: ["3B", "5B"],
-		semitone: [
+		wholeTone: [
 			"2A",
 			"6A"
 		],
-		wholeTone: [
+		semitone: [
 			"9A",
 			"11A"
 		],
@@ -436,11 +436,11 @@ export default {
 		prev: "3B",
 		next: "5B",
 		diagonal: ["5A", "3A"],
-		semitone: [
+		wholeTone: [
 			"2B",
 			"6B"
 		],
-		wholeTone: [
+		semitone: [
 			"9B",
 			"11B"
 		],
@@ -493,11 +493,11 @@ export default {
 		prev: "4A",
 		next: "6A",
 		diagonal: ["4B", "6B"],
-		semitone: [
+		wholeTone: [
 			"3A",
 			"7A"
 		],
-		wholeTone: [
+		semitone: [
 			"10A",
 			"12A"
 		],
@@ -550,11 +550,11 @@ export default {
 		prev: "4B",
 		next: "6B",
 		diagonal: ["6A", "4A"],
-		semitone: [
+		wholeTone: [
 			"3B",
 			"7B"
 		],
-		wholeTone: [
+		semitone: [
 			"10B",
 			"12B"
 		],
@@ -607,11 +607,11 @@ export default {
 		prev: "5A",
 		next: "7A",
 		diagonal: ["5B", "7B"],
-		semitone: [
+		wholeTone: [
 			"4A",
 			"8A"
 		],
-		wholeTone: [
+		semitone: [
 			"11A",
 			"1A"
 		],
@@ -664,11 +664,11 @@ export default {
 		prev: "5B",
 		next: "7B",
 		diagonal: ["7A", "5A"],
-		semitone: [
+		wholeTone: [
 			"4B",
 			"8B"
 		],
-		wholeTone: [
+		semitone: [
 			"11B",
 			"1B"
 		],
@@ -721,11 +721,11 @@ export default {
 		prev: "6A",
 		next: "8A",
 		diagonal: ["6B", "8B"],
-		semitone: [
+		wholeTone: [
 			"5A",
 			"9A"
 		],
-		wholeTone: [
+		semitone: [
 			"12A",
 			"2A"
 		],
@@ -778,11 +778,11 @@ export default {
 		prev: "6B",
 		next: "8B",
 		diagonal: ["8A", "6A"],
-		semitone: [
+		wholeTone: [
 			"5B",
 			"9B"
 		],
-		wholeTone: [
+		semitone: [
 			"12B",
 			"2B"
 		],
@@ -837,11 +837,11 @@ export default {
 		prev: "7A",
 		next: "9A",
 		diagonal: ["7B", "9B"],
-		semitone: [
+		wholeTone: [
 			"6A",
 			"10A"
 		],
-		wholeTone: [
+		semitone: [
 			"1A",
 			"3A"
 		],
@@ -894,11 +894,11 @@ export default {
 		prev: "7B",
 		next: "9B",
 		diagonal: ["9A", "7A"],
-		semitone: [
+		wholeTone: [
 			"6B",
 			"10B"
 		],
-		wholeTone: [
+		semitone: [
 			"1B",
 			"3B"
 		],
@@ -951,11 +951,11 @@ export default {
 		prev: "8A",
 		next: "10A",
 		diagonal: ["8B", "10B"],
-		semitone: [
+		wholeTone: [
 			"7A",
 			"11A"
 		],
-		wholeTone: [
+		semitone: [
 			"2A",
 			"4A"
 		],
@@ -1008,11 +1008,11 @@ export default {
 		prev: "8B",
 		next: "10B",
 		diagonal: ["10A", "8A"],
-		semitone: [
+		wholeTone: [
 			"7B",
 			"11B"
 		],
-		wholeTone: [
+		semitone: [
 			"2B",
 			"4B"
 		],
@@ -1065,11 +1065,11 @@ export default {
 		prev: "9A",
 		next: "11A",
 		diagonal: ["9B", "11B"],
-		semitone: [
+		wholeTone: [
 			"8A",
 			"12A"
 		],
-		wholeTone: [
+		semitone: [
 			"3A",
 			"5A"
 		],
@@ -1122,11 +1122,11 @@ export default {
 		prev: "9B",
 		next: "11B",
 		diagonal: ["11A", "9A"],
-		semitone: [
+		wholeTone: [
 			"8B",
 			"12B"
 		],
-		wholeTone: [
+		semitone: [
 			"3B",
 			"5B"
 		],
@@ -1179,11 +1179,11 @@ export default {
 		prev: "10A",
 		next: "12A",
 		diagonal: ["10B", "12B"],
-		semitone: [
+		wholeTone: [
 			"9A",
 			"1A"
 		],
-		wholeTone: [
+		semitone: [
 			"4A",
 			"6A"
 		],
@@ -1235,11 +1235,11 @@ export default {
 		prev: "10B",
 		next: "12B",
 		diagonal: ["12A", "10A"],
-		semitone: [
+		wholeTone: [
 			"9B",
 			"1B"
 		],
-		wholeTone: [
+		semitone: [
 			"4B",
 			"6B"
 		],
@@ -1292,11 +1292,11 @@ export default {
 		prev: "11A",
 		next: "1A",
 		diagonal: ["11B", "1B"],
-		semitone: [
+		wholeTone: [
 			"10A",
 			"2A"
 		],
-		wholeTone: [
+		semitone: [
 			"5A",
 			"7A"
 		],
@@ -1349,11 +1349,11 @@ export default {
 		prev: "11B",
 		next: "1B",
 		diagonal: ["1A", "11A"],
-		semitone: [
+		wholeTone: [
 			"10B",
 			"2B"
 		],
-		wholeTone: [
+		semitone: [
 			"5B",
 			"7B"
 		],
