@@ -47,27 +47,27 @@ export default {
 			"8A"
 		],
 		compatible: [
-		"1B",
-		"2A",
-		"4B",
-		"10B",
-		"12A"
-	],
+			"1B",
+			"2A",
+			"4B",
+			"10B",
+			"12A"
+		],
 		compatibleAndEnergyBoost: [
-		"1B",
-		"2A",
-		"3A",
-		"4B",
-		"6A",
-		"8A",
-		"10B",
-		"12A"
-	],
-	energyBoost: [
-		"3A",
-		"6A",
-		"8A"
-	],
+			"1B",
+			"2A",
+			"3A",
+			"4B",
+			"6A",
+			"8A",
+			"10B",
+			"12A"
+		],
+		energyBoost: [
+			"3A",
+			"6A",
+			"8A"
+		],
 	},
 	__1B: {
 		key: "B Major",
@@ -102,28 +102,28 @@ export default {
 			"6B",
 			"8B"
 		],
-	compatible: [
-		"1A", "1B",
-		"2B",
-		"4A",
-		"10A",
-		"12B"
-	],
-	compatibleAndEnergyBoost: [
-		"1A", "1B",
-		"2B",
-		"3B",
-		"4A",
-		"6B",
-		"8B",
-		"10A",
-		"12B"
-	],
-	energyBoost: [
-		"3B",
-		"6B",
-		"8B"
-	]
+		compatible: [
+			"1A", "1B",
+			"2B",
+			"4A",
+			"10A",
+			"12B"
+		],
+		compatibleAndEnergyBoost: [
+			"1A", "1B",
+			"2B",
+			"3B",
+			"4A",
+			"6B",
+			"8B",
+			"10A",
+			"12B"
+		],
+		energyBoost: [
+			"3B",
+			"6B",
+			"8B"
+		]
 
 	},
 	__2A: {
@@ -159,28 +159,28 @@ export default {
 			"7A",
 			"9A"
 		],
-	compatible: [
-		"1A",
-		"2A", "2B",
-		"3A",
-		"5B",
-		"11B"
-	],
-	compatibleAndEnergyBoost: [
-		"1A",
-		"2A", "2B",
-		"3A",
-		"4A",
-		"5B",
-		"7A",
-		"9A",
-		"11B"
-	],
-	energyBoost: [
-		"4A",
-		"7A",
-		"9A"
-	]
+		compatible: [
+			"1A",
+			"2A", "2B",
+			"3A",
+			"5B",
+			"11B"
+		],
+		compatibleAndEnergyBoost: [
+			"1A",
+			"2A", "2B",
+			"3A",
+			"4A",
+			"5B",
+			"7A",
+			"9A",
+			"11B"
+		],
+		energyBoost: [
+			"4A",
+			"7A",
+			"9A"
+		]
 
 	},
 	__2B: {
@@ -216,28 +216,28 @@ export default {
 			"7B",
 			"9B"
 		],
-	compatible: [
-		"1B",
-		"2A", "2B",
-		"3B",
-		"5A",
-		"11A"
-	],
-	compatibleAndEnergyBoost: [
-		"1B",
-		"2A", "2B",
-		"3B",
-		"4B",
-		"5A",
-		"7B",
-		"9B",
-		"11A"
-	],
-	energyBoost: [
-		"4B",
-		"7B",
-		"9B"
-	]
+		compatible: [
+			"1B",
+			"2A", "2B",
+			"3B",
+			"5A",
+			"11A"
+		],
+		compatibleAndEnergyBoost: [
+			"1B",
+			"2A", "2B",
+			"3B",
+			"4B",
+			"5A",
+			"7B",
+			"9B",
+			"11A"
+		],
+		energyBoost: [
+			"4B",
+			"7B",
+			"9B"
+		]
 
 	},
 	__3A: {
@@ -273,28 +273,28 @@ export default {
 			"8A",
 			"10A"
 		],
-	compatible: [
-		"2A",
-		"3A", "3B",
-		"4A",
-		"6B",
-		"12B"
-	],
-	compatibleAndEnergyBoost: [
-		"2A",
-		"3A", "3B",
-		"4A",
-		"5A",
-		"6B",
-		"8A",
-		"10A",
-		"12B"
-	],
-	energyBoost: [
-		"5A",
-		"8A",
-		"10A"
-	]
+		compatible: [
+			"2A",
+			"3A", "3B",
+			"4A",
+			"6B",
+			"12B"
+		],
+		compatibleAndEnergyBoost: [
+			"2A",
+			"3A", "3B",
+			"4A",
+			"5A",
+			"6B",
+			"8A",
+			"10A",
+			"12B"
+		],
+		energyBoost: [
+			"5A",
+			"8A",
+			"10A"
+		]
 
 	},
 	__3B: {
@@ -330,28 +330,28 @@ export default {
 			"8B",
 			"10B"
 		],
-	compatible: [
-		"2B",
-		"3A", "3B",
-		"4B",
-		"6A",
-		"12A"
-	],
-	compatibleAndEnergyBoost: [
-		"2B",
-		"3A", "3B",
-		"4B",
-		"5B",
-		"6A",
-		"8B",
-		"10B",
-		"12A"
-	],
-	energyBoost: [
-		"5B",
-		"8B",
-		"10B"
-	]
+		compatible: [
+			"2B",
+			"3A", "3B",
+			"4B",
+			"6A",
+			"12A"
+		],
+		compatibleAndEnergyBoost: [
+			"2B",
+			"3A", "3B",
+			"4B",
+			"5B",
+			"6A",
+			"8B",
+			"10B",
+			"12A"
+		],
+		energyBoost: [
+			"5B",
+			"8B",
+			"10B"
+		]
 
 	},
 	__4A: {
@@ -387,28 +387,28 @@ export default {
 			"9A",
 			"11A"
 		],
-	compatible: [
-		"1B",
-		"3A",
-		"4A", "4B",
-		"5A",
-		"7B",
-	],
-	compatibleAndEnergyBoost: [
-		"1B",
-		"3A",
-		"4A", "4B",
-		"5A",
-		"6A",
-		"7B",
-		"9A",
-		"11A"
-	],
-	energyBoost: [
-		"6A",
-		"9A",
-		"11A"
-	]
+		compatible: [
+			"1B",
+			"3A",
+			"4A", "4B",
+			"5A",
+			"7B",
+		],
+		compatibleAndEnergyBoost: [
+			"1B",
+			"3A",
+			"4A", "4B",
+			"5A",
+			"6A",
+			"7B",
+			"9A",
+			"11A"
+		],
+		energyBoost: [
+			"6A",
+			"9A",
+			"11A"
+		]
 
 	},
 	__4B: {
@@ -444,28 +444,28 @@ export default {
 			"9B",
 			"11B"
 		],
-	compatible: [
-		"1A",
-		"3B",
-		"4A", "4B",
-		"5B",
-		"7A",
-	],
-	compatibleAndEnergyBoost: [
-		"1A",
-		"3B",
-		"4A", "4B",
-		"5B",
-		"6B",
-		"7A",
-		"9B",
-		"11B"
-	],
-	energyBoost: [
-		"6B",
-		"9B",
-		"11B"
-	]
+		compatible: [
+			"1A",
+			"3B",
+			"4A", "4B",
+			"5B",
+			"7A",
+		],
+		compatibleAndEnergyBoost: [
+			"1A",
+			"3B",
+			"4A", "4B",
+			"5B",
+			"6B",
+			"7A",
+			"9B",
+			"11B"
+		],
+		energyBoost: [
+			"6B",
+			"9B",
+			"11B"
+		]
 
 	},
 	__5A: {
@@ -501,28 +501,28 @@ export default {
 			"10A",
 			"12A"
 		],
-	compatible: [
-		"2B",
-		"4A",
-		"5A", "5B",
-		"6A",
-		"8B",
-	],
-	compatibleAndEnergyBoost: [
-		"2B",
-		"4A",
-		"5A", "5B",
-		"6A",
-		"7A",
-		"8B",
-		"10A",
-		"12A"
-	],
-	energyBoost: [
-		"7A",
-		"10A",
-		"12A"
-	]
+		compatible: [
+			"2B",
+			"4A",
+			"5A", "5B",
+			"6A",
+			"8B",
+		],
+		compatibleAndEnergyBoost: [
+			"2B",
+			"4A",
+			"5A", "5B",
+			"6A",
+			"7A",
+			"8B",
+			"10A",
+			"12A"
+		],
+		energyBoost: [
+			"7A",
+			"10A",
+			"12A"
+		]
 
 	},
 	__5B: {
@@ -558,28 +558,28 @@ export default {
 			"10B",
 			"12B"
 		],
-	compatible: [
-		"2A",
-		"4B",
-		"5A", "5B",
-		"6B",
-		"8A",
-	],
-	compatibleAndEnergyBoost: [
-		"2A",
-		"4B",
-		"5A", "5B",
-		"6B",
-		"7B",
-		"8A",
-		"10B",
-		"12B"
-	],
-	energyBoost: [
-		"7B",
-		"10B",
-		"12B"
-	]
+		compatible: [
+			"2A",
+			"4B",
+			"5A", "5B",
+			"6B",
+			"8A",
+		],
+		compatibleAndEnergyBoost: [
+			"2A",
+			"4B",
+			"5A", "5B",
+			"6B",
+			"7B",
+			"8A",
+			"10B",
+			"12B"
+		],
+		energyBoost: [
+			"7B",
+			"10B",
+			"12B"
+		]
 
 	},
 	__6A: {
@@ -615,28 +615,28 @@ export default {
 			"11A",
 			"1A"
 		],
-	compatible: [
-		"3B",
-		"5A",
-		"6A", "6B",
-		"7A",
-		"9B",
-	],
-	compatibleAndEnergyBoost: [
-		"1A",
-		"3B",
-		"5A",
-		"6A", "6B",
-		"7A",
-		"8A",
-		"9B",
-		"11A"
-	],
-	energyBoost: [
-		"1A",
-		"8A",
-		"11A"
-	]
+		compatible: [
+			"3B",
+			"5A",
+			"6A", "6B",
+			"7A",
+			"9B",
+		],
+		compatibleAndEnergyBoost: [
+			"1A",
+			"3B",
+			"5A",
+			"6A", "6B",
+			"7A",
+			"8A",
+			"9B",
+			"11A"
+		],
+		energyBoost: [
+			"1A",
+			"8A",
+			"11A"
+		]
 
 	},
 	__6B: {
@@ -672,28 +672,28 @@ export default {
 			"11B",
 			"1B"
 		],
-	compatible: [
-		"3A",
-		"5B",
-		"6A", "6B",
-		"7B",
-		"9A",
-	],
-	compatibleAndEnergyBoost: [
-		"1B",
-		"3A",
-		"5B",
-		"6A", "6B",
-		"7B",
-		"8B",
-		"9A",
-		"11B"
-	],
-	energyBoost: [
-		"1B",
-		"8B",
-		"11B"
-	]
+		compatible: [
+			"3A",
+			"5B",
+			"6A", "6B",
+			"7B",
+			"9A",
+		],
+		compatibleAndEnergyBoost: [
+			"1B",
+			"3A",
+			"5B",
+			"6A", "6B",
+			"7B",
+			"8B",
+			"9A",
+			"11B"
+		],
+		energyBoost: [
+			"1B",
+			"8B",
+			"11B"
+		]
 
 	},
 	__7A: {
@@ -729,28 +729,28 @@ export default {
 			"12A",
 			"2A"
 		],
-	compatible: [
-		"4B",
-		"6A",
-		"7A", "7B",
-		"8A",
-		"10B",
-	],
-	compatibleAndEnergyBoost: [
-		"2A",
-		"4B",
-		"6A",
-		"7A", "7B",
-		"8A",
-		"9A",
-		"10B",
-		"12A"
-	],
-	energyBoost: [
-		"2A",
-		"9A",
-		"12A"
-	]
+		compatible: [
+			"4B",
+			"6A",
+			"7A", "7B",
+			"8A",
+			"10B",
+		],
+		compatibleAndEnergyBoost: [
+			"2A",
+			"4B",
+			"6A",
+			"7A", "7B",
+			"8A",
+			"9A",
+			"10B",
+			"12A"
+		],
+		energyBoost: [
+			"2A",
+			"9A",
+			"12A"
+		]
 
 	},
 	__7B: {
@@ -786,30 +786,30 @@ export default {
 			"12B",
 			"2B"
 		],
-	compatible: [
-		"4A",
-		"6B",
-		"7A", "7B",
-		"8B",
-		"10A",
-		"11A", "11B",
-	],
-	compatibleAndEnergyBoost: [
-		"2B",
-		"4A",
-		"6B",
-		"7A", "7B",
-		"8B",
-		"9B",
-		"10A",
-		"11A", "11B",
-		"12B"
-	],
-	energyBoost: [
-		"2B",
-		"9B",
-		"12B"
-	]
+		compatible: [
+			"4A",
+			"6B",
+			"7A", "7B",
+			"8B",
+			"10A",
+			"11A", "11B",
+		],
+		compatibleAndEnergyBoost: [
+			"2B",
+			"4A",
+			"6B",
+			"7A", "7B",
+			"8B",
+			"9B",
+			"10A",
+			"11A", "11B",
+			"12B"
+		],
+		energyBoost: [
+			"2B",
+			"9B",
+			"12B"
+		]
 
 	},
 	__8A: {
@@ -845,28 +845,28 @@ export default {
 			"1A",
 			"3A"
 		],
-	compatible: [
-		"5B",
-		"7A",
-		"8A", "8B",
-		"9A",
-		"11B"
-	],
-	compatibleAndEnergyBoost: [
-		"1A",
-		"3A",
-		"5B",
-		"7A",
-		"8A", "8B",
-		"9A",
-		"10A",
-		"11B"
-	],
-	energyBoost: [
-		"1A",
-		"3A",
-		"10A"
-	]
+		compatible: [
+			"5B",
+			"7A",
+			"8A", "8B",
+			"9A",
+			"11B"
+		],
+		compatibleAndEnergyBoost: [
+			"1A",
+			"3A",
+			"5B",
+			"7A",
+			"8A", "8B",
+			"9A",
+			"10A",
+			"11B"
+		],
+		energyBoost: [
+			"1A",
+			"3A",
+			"10A"
+		]
 
 	},
 	__8B: {
@@ -902,28 +902,28 @@ export default {
 			"1B",
 			"3B"
 		],
-	compatible: [
-		"5A",
-		"7B",
-		"8A", "8B",
-		"9B",
-		"11A"
-	],
-	compatibleAndEnergyBoost: [
-		"1B",
-		"3B",
-		"5A",
-		"7B",
-		"8A", "8B",
-		"9B",
-		"10B",
-		"11A"
-	],
-	energyBoost: [
-		"1B",
-		"3B",
-		"10B"
-	]
+		compatible: [
+			"5A",
+			"7B",
+			"8A", "8B",
+			"9B",
+			"11A"
+		],
+		compatibleAndEnergyBoost: [
+			"1B",
+			"3B",
+			"5A",
+			"7B",
+			"8A", "8B",
+			"9B",
+			"10B",
+			"11A"
+		],
+		energyBoost: [
+			"1B",
+			"3B",
+			"10B"
+		]
 
 	},
 	__9A: {
@@ -959,28 +959,28 @@ export default {
 			"2A",
 			"4A"
 		],
-	compatible: [
-		"6B",
-		"8A",
-		"9A", "9B",
-		"10A",
-		"12B"
-	],
-	compatibleAndEnergyBoost: [
-		"2A",
-		"4A",
-		"6B",
-		"8A",
-		"9A", "9B",
-		"10A",
-		"11A",
-		"12B"
-	],
-	energyBoost: [
-		"2A",
-		"4A",
-		"11A"
-	]
+		compatible: [
+			"6B",
+			"8A",
+			"9A", "9B",
+			"10A",
+			"12B"
+		],
+		compatibleAndEnergyBoost: [
+			"2A",
+			"4A",
+			"6B",
+			"8A",
+			"9A", "9B",
+			"10A",
+			"11A",
+			"12B"
+		],
+		energyBoost: [
+			"2A",
+			"4A",
+			"11A"
+		]
 
 	},
 	__9B: {
@@ -1016,28 +1016,28 @@ export default {
 			"2B",
 			"4B"
 		],
-	compatible: [
-		"6A",
-		"8B",
-		"9A", "9B",
-		"10B",
-		"12A"
-	],
-	compatibleAndEnergyBoost: [
-		"2B",
-		"4B",
-		"6A",
-		"8B",
-		"9A", "9B",
-		"10B",
-		"11B",
-		"12A"
-	],
-	energyBoost: [
-		"2B",
-		"4B",
-		"11B"
-	]
+		compatible: [
+			"6A",
+			"8B",
+			"9A", "9B",
+			"10B",
+			"12A"
+		],
+		compatibleAndEnergyBoost: [
+			"2B",
+			"4B",
+			"6A",
+			"8B",
+			"9A", "9B",
+			"10B",
+			"11B",
+			"12A"
+		],
+		energyBoost: [
+			"2B",
+			"4B",
+			"11B"
+		]
 
 	},
 	__10A: {
@@ -1073,28 +1073,28 @@ export default {
 			"3A",
 			"5A"
 		],
-	compatible: [
-		"1B",
-		"7B",
-		"9A",
-		"10A", "10B",
-		"11A",
-	],
-	compatibleAndEnergyBoost: [
-		"1B",
-		"3A",
-		"5A",
-		"7B",
-		"9A",
-		"10A", "10B",
-		"11A",
-		"12A"
-	],
-	energyBoost: [
-		"3A",
-		"5A",
-		"12A"
-	]
+		compatible: [
+			"1B",
+			"7B",
+			"9A",
+			"10A", "10B",
+			"11A",
+		],
+		compatibleAndEnergyBoost: [
+			"1B",
+			"3A",
+			"5A",
+			"7B",
+			"9A",
+			"10A", "10B",
+			"11A",
+			"12A"
+		],
+		energyBoost: [
+			"3A",
+			"5A",
+			"12A"
+		]
 
 	},
 	__10B: {
@@ -1130,28 +1130,28 @@ export default {
 			"3B",
 			"5B"
 		],
-	compatible: [
-		"1A",
-		"7A",
-		"9B",
-		"10A", "10B",
-		"11B",
-	],
-	compatibleAndEnergyBoost: [
-		"1A",
-		"3B",
-		"5B",
-		"7A",
-		"9B",
-		"10A", "10B",
-		"11B",
-		"12B"
-	],
-	energyBoost: [
-		"3B",
-		"5B",
-		"12B"
-	]
+		compatible: [
+			"1A",
+			"7A",
+			"9B",
+			"10A", "10B",
+			"11B",
+		],
+		compatibleAndEnergyBoost: [
+			"1A",
+			"3B",
+			"5B",
+			"7A",
+			"9B",
+			"10A", "10B",
+			"11B",
+			"12B"
+		],
+		energyBoost: [
+			"3B",
+			"5B",
+			"12B"
+		]
 
 	},
 	__11A: {
@@ -1187,28 +1187,28 @@ export default {
 			"4A",
 			"6A"
 		],
-	compatible: [
-		"2B",
-		"8B",
-		"10A",
-		"11A", "11B",
-		"12A"
-	],
-	compatibleAndEnergyBoost: [
-		"1A",
-		"2B",
-		"4A",
-		"6A",
-		"8B",
-		"10A",
-		"11A", "11B",
-		"12A"
-	],
-	energyBoost: [
-		"1A",
-		"4A",
-		"6A",
-	]
+		compatible: [
+			"2B",
+			"8B",
+			"10A",
+			"11A", "11B",
+			"12A"
+		],
+		compatibleAndEnergyBoost: [
+			"1A",
+			"2B",
+			"4A",
+			"6A",
+			"8B",
+			"10A",
+			"11A", "11B",
+			"12A"
+		],
+		energyBoost: [
+			"1A",
+			"4A",
+			"6A",
+		]
 
 	},
 	__11B: {
@@ -1243,28 +1243,28 @@ export default {
 			"4B",
 			"6B"
 		],
-	compatible: [
-		"2A",
-		"8A",
-		"10B",
-		"11A", "11B",
-		"12B"
-	],
-	compatibleAndEnergyBoost: [
-		"1B",
-		"2A",
-		"4B",
-		"6B",
-		"8A",
-		"10B",
-		"11A", "11B",
-		"12B"
-	],
-	energyBoost: [
-		"1B",
-		"4B",
-		"6B"
-	]
+		compatible: [
+			"2A",
+			"8A",
+			"10B",
+			"11A", "11B",
+			"12B"
+		],
+		compatibleAndEnergyBoost: [
+			"1B",
+			"2A",
+			"4B",
+			"6B",
+			"8A",
+			"10B",
+			"11A", "11B",
+			"12B"
+		],
+		energyBoost: [
+			"1B",
+			"4B",
+			"6B"
+		]
 
 	},
 	__12A: {
@@ -1300,28 +1300,28 @@ export default {
 			"5A",
 			"7A"
 		],
-	compatible: [
-		"1A",
-		"3B",
-		"9B",
-		"11A",
-		"12A", "12B"
-	],
-	compatibleAndEnergyBoost: [
-		"1A",
-		"2A",
-		"3B",
-		"5A",
-		"7A",
-		"9B",
-		"11A",
-		"12A", "12B"
-	],
-	energyBoost: [
-		"2A",
-		"5A",
-		"7A"
-	]
+		compatible: [
+			"1A",
+			"3B",
+			"9B",
+			"11A",
+			"12A", "12B"
+		],
+		compatibleAndEnergyBoost: [
+			"1A",
+			"2A",
+			"3B",
+			"5A",
+			"7A",
+			"9B",
+			"11A",
+			"12A", "12B"
+		],
+		energyBoost: [
+			"2A",
+			"5A",
+			"7A"
+		]
 
 	},
 	__12B: {
@@ -1357,28 +1357,28 @@ export default {
 			"5B",
 			"7B"
 		],
-	compatible: [
-		"1B",
-		"3A",
-		"9A",
-		"11B",
-		"12A", "12B"
-	],
-	compatibleAndEnergyBoost: [
-		"1B",
-		"2B",
-		"3A",
-		"5B",
-		"7B",
-		"9A",
-		"11B",
-		"12A", "12B"
-	],
-	energyBoost: [
-		"2B",
-		"5B",
-		"7B"
-	]
+		compatible: [
+			"1B",
+			"3A",
+			"9A",
+			"11B",
+			"12A", "12B"
+		],
+		compatibleAndEnergyBoost: [
+			"1B",
+			"2B",
+			"3A",
+			"5B",
+			"7B",
+			"9A",
+			"11B",
+			"12A", "12B"
+		],
+		energyBoost: [
+			"2B",
+			"5B",
+			"7B"
+		]
 
 	}
 };
