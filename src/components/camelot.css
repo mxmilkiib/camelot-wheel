@@ -10,6 +10,11 @@ text {
   pointer-events: none;
 }
 
+.MuiFormGroup-root.MuiFormGroup-row {
+  justify-content: center;
+}
+
+
 div#camelot-container {
 	margin: 20px auto;
 	width: 750px;
