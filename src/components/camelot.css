@@ -1,5 +1,9 @@
-:root, .MuiPaper-root.jss3.control.MuiPaper-elevation1.MuiPaper-rounded {
+:root, .MuiPaper-root {
   color-scheme: light dark;
+}
+
+.MuiPaper-root.jss3.control.MuiPaper-elevation1.MuiPaper-rounded {
+  background: lightgray;
 }
 
 
