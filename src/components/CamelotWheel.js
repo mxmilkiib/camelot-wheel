@@ -1071,12 +1071,13 @@ class CamelotWheel extends React.Component {
 										onChange={this.handleChange("mode")}
 										row
 									>
-										<FormControlLabel value={KeyState.MAIN} control={<Radio/>} label="Main"/>
-										<FormControlLabel value={KeyState.SEMITONE} control={<Radio/>} label="Semi-tone"/>
-										<FormControlLabel value={KeyState.WHOLE_TONE} control={<Radio/>} label="Whole Tone"/>
+										<FormControlLabel value={KeyState.MAIN} control={<Radio/>} label="Main (rel, dom, sub-dom)"/>
 										<FormControlLabel value={KeyState.COMPATIBLE} control={<Radio/>} label="Compatible"/>
 										<FormControlLabel value={KeyState.ENERGY_BOOST} control={<Radio/>} label="Energy Boost"/>
 										<FormControlLabel value={KeyState.COMPATIBLE_AND_ENERGY_BOOST} control={<Radio/>} label="Compatible + Energy Boost"/>
+										<br/>
+	                  <FormControlLabel value={KeyState.SEMITONE} control={<Radio/>} label="Semi-tone"/>
+										<FormControlLabel value={KeyState.WHOLE_TONE} control={<Radio/>} label="Whole Tone"/>
 										{/*<FormControlLabel value={KeyState.DIAGONAL} control={<Radio/>} label="Diagonal"/>*/}
 										{/*<FormControlLabel value={KeyState.ALL} control={<Radio/>} label="All"/>*/}
 									</RadioGroup>
