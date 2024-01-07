@@ -21,7 +21,6 @@ export default {
 			"1B",
 			"12A",
 			"2A",
-			"12B", "2B"
 		],
 		all: [
 			"1A",
@@ -77,7 +76,6 @@ export default {
 			"1A",
 			"12B",
 			"2B",
-			"2A", "12A"
 		],
 		all: [
 			"1B",
@@ -134,7 +132,6 @@ export default {
 			"2B",
 			"1A",
 			"3A",
-			"1B", "3B"
 		],
 		all: [
 			"2A",
@@ -191,7 +188,6 @@ export default {
 			"2A",
 			"1B",
 			"3B",
-			"3A", "1A"
 		],
 		all: [
 			"2B",
@@ -248,7 +244,6 @@ export default {
 			"3B",
 			"2A",
 			"4A",
-			"2B", "4B"
 		],
 		all: [
 			"3A",
@@ -305,7 +300,6 @@ export default {
 			"3A",
 			"2B",
 			"4B",
-			"4A", "2A"
 		],
 		all: [
 			"3B",
@@ -362,7 +356,6 @@ export default {
 			"4B",
 			"3A",
 			"5A",
-			"3B", "5B"
 		],
 		all: [
 			"4A",
@@ -419,7 +412,6 @@ export default {
 			"4A",
 			"3B",
 			"5B",
-			"5A", "3A"
 		],
 		all: [
 			"4B",
@@ -476,7 +468,6 @@ export default {
 			"5B",
 			"4A",
 			"6A",
-			"4B", "6B"
 		],
 		all: [
 			"5A",
@@ -533,7 +524,6 @@ export default {
 			"5A",
 			"4B",
 			"6B",
-			"6A", "4A"
 		],
 		all: [
 			"5B",
@@ -590,7 +580,6 @@ export default {
 			"6B",
 			"5A",
 			"7A",
-			"5B", "7B"
 		],
 		all: [
 			"6A",
@@ -647,7 +636,6 @@ export default {
 			"6A",
 			"5B",
 			"7B",
-			"7A", "5A"
 		],
 		all: [
 			"6B",
@@ -704,7 +692,6 @@ export default {
 			"7B",
 			"6A",
 			"8A",
-			"6B", "8B"
 		],
 		all: [
 			"7A",
@@ -761,7 +748,6 @@ export default {
 			"7A",
 			"6B",
 			"8B",
-			"8A", "6A"
 		],
 		all: [
 			"7B",
@@ -820,7 +806,6 @@ export default {
 			"8B",
 			"7A",
 			"9A",
-			"7B", "9B"
 		],
 		all: [
 			"8A",
@@ -877,7 +862,6 @@ export default {
 			"8A",
 			"7B",
 			"9B",
-			"9A", "7A"
 		],
 		all: [
 			"8B",
@@ -934,7 +918,6 @@ export default {
 			"9B",
 			"8A",
 			"10A",
-			"8B", "10B"
 		],
 		all: [
 			"9A",
@@ -991,7 +974,6 @@ export default {
 			"9A",
 			"8B",
 			"10B",
-			"10A", "8A"
 		],
 		all: [
 			"9B",
@@ -1048,7 +1030,6 @@ export default {
 			"10B",
 			"9A",
 			"11A",
-			"9B", "11B"
 		],
 		all: [
 			"10A",
@@ -1105,7 +1086,6 @@ export default {
 			"10A",
 			"9B",
 			"11B",
-			"11A", "9A"
 		],
 		all: [
 			"10B",
@@ -1158,11 +1138,10 @@ export default {
 		key: "F-sharp Minor",
 		type: "minor",
 		main: [
+			"10A",
 			"11A",
 			"11B",
-			"10A",
 			"12A",
-			"10B", "12B"
 		],
 		all: [
 			"11A",
@@ -1218,7 +1197,7 @@ export default {
 			"11B",
 			"11A",
 			"10B",
-			"12B","12A", "10A"
+			"12B"
 		],
 		all: [
 			"11B",
@@ -1274,7 +1253,6 @@ export default {
 			"12A",
 			"12B",
 			"11A",
-			"11B", "1B",
 			"1A"
 		],
 		all: [
@@ -1332,7 +1310,6 @@ export default {
 			"12A",
 			"11B",
 			"1B",
-			"1A", "11A"
 		],
 		all: [
 			"12B",
