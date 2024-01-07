@@ -6,6 +6,9 @@
   background: lightgray;
 }
 
+text {
+  pointer-events: none;
+}
 
 div#camelot-container {
 	margin: 20px auto;
