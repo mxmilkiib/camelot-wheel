@@ -778,7 +778,6 @@ export default {
 			"7A", "7B",
 			"8B",
 			"10A",
-			"11A", "11B",
 		],
 		compatibleAndEnergyBoost: [
 			"2B",
