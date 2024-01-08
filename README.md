@@ -2,7 +2,7 @@
 
 A quick interactive Camelot Wheel for DJs into key matching through keys and key changes.
 
-https://www.soulglo.com/camelot-wheel
+https://harmonicwheel.vercel.app
 
 ### Build Development
 
