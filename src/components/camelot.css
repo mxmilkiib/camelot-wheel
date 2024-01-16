@@ -219,7 +219,8 @@ path.highlight {
 }
 
 .MuiTypography-root.MuiFormControlLabel-label.MuiTypography-body1 {
-  font-size: 1.6rem;
+	font-size: 2.3rem;
+  margin: 0.1rem;
 }
 .MuiFormGroup-root.MuiFormGroup-row {
   margin: 0 2rem;
