@@ -42,6 +42,7 @@ export default {
 			"3A"
 		],
 		semitone: [
+			"4B",
 			"6A",
 			"8A"
 		],
@@ -67,6 +68,14 @@ export default {
 			"6A",
 			"8A"
 		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 	},
 	__1B: {
 		key: "B Major",
@@ -97,6 +106,7 @@ export default {
 			"3B"
 		],
 		semitone: [
+			"4A",
 			"6B",
 			"8B"
 		],
@@ -121,7 +131,15 @@ export default {
 			"3B",
 			"6B",
 			"8B"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__2A: {
@@ -153,6 +171,7 @@ export default {
 			"4A"
 		],
 		semitone: [
+			"5B",
 			"7A",
 			"9A"
 		],
@@ -177,8 +196,16 @@ export default {
 			"4A",
 			"7A",
 			"9A"
-		]
+		],
 
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"12A", "12B"
+	],
 	},
 	__2B: {
 		key: "F-sharp Major",
@@ -209,6 +236,7 @@ export default {
 			"4B"
 		],
 		semitone: [
+			"5A",
 			"7B",
 			"9B"
 		],
@@ -233,7 +261,15 @@ export default {
 			"4B",
 			"7B",
 			"9B"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"12A", "12B"
+	],
 
 	},
 	__3A: {
@@ -265,6 +301,7 @@ export default {
 			"5A"
 		],
 		semitone: [
+			"6B",
 			"8A",
 			"10A"
 		],
@@ -289,7 +326,15 @@ export default {
 			"5A",
 			"8A",
 			"10A"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+	],
 
 	},
 	__3B: {
@@ -321,6 +366,7 @@ export default {
 			"5B"
 		],
 		semitone: [
+			"6A",
 			"8B",
 			"10B"
 		],
@@ -345,7 +391,15 @@ export default {
 			"5B",
 			"8B",
 			"10B"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+	],
 
 	},
 	__4A: {
@@ -377,6 +431,7 @@ export default {
 			"6A"
 		],
 		semitone: [
+			"7B",
 			"9A",
 			"11A"
 		],
@@ -401,7 +456,15 @@ export default {
 			"6A",
 			"9A",
 			"11A"
-		]
+		],
+	closeEnough: [
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+	],
 
 	},
 	__4B: {
@@ -433,6 +496,7 @@ export default {
 			"6B"
 		],
 		semitone: [
+			"7A",
 			"9B",
 			"11B"
 		],
@@ -457,7 +521,15 @@ export default {
 			"6B",
 			"9B",
 			"11B"
-		]
+		],
+	closeEnough: [
+		"2A", "2B",
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+	],
 
 	},
 	__5A: {
@@ -489,6 +561,7 @@ export default {
 			"7A"
 		],
 		semitone: [
+			"8B",
 			"10A",
 			"12A"
 		],
@@ -513,7 +586,15 @@ export default {
 			"7A",
 			"10A",
 			"12A"
-		]
+		],
+	closeEnough: [
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+	],
 
 	},
 	__5B: {
@@ -545,6 +626,7 @@ export default {
 			"7B"
 		],
 		semitone: [
+			"8A",
 			"10B",
 			"12B"
 		],
@@ -569,7 +651,15 @@ export default {
 			"7B",
 			"10B",
 			"12B"
-		]
+		],
+	closeEnough: [
+		"3A", "3B",
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+	],
 
 	},
 	__6A: {
@@ -601,6 +691,7 @@ export default {
 			"8A"
 		],
 		semitone: [
+			"9B",
 			"11A",
 			"1A"
 		],
@@ -625,7 +716,15 @@ export default {
 			"1A",
 			"8A",
 			"11A"
-		]
+		],
+	closeEnough: [
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+	],
 
 	},
 	__6B: {
@@ -657,6 +756,7 @@ export default {
 			"8B"
 		],
 		semitone: [
+			"9A",
 			"11B",
 			"1B"
 		],
@@ -681,7 +781,15 @@ export default {
 			"1B",
 			"8B",
 			"11B"
-		]
+		],
+	closeEnough: [
+		"4A", "4B",
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+	],
 
 	},
 	__7A: {
@@ -713,6 +821,7 @@ export default {
 			"9A"
 		],
 		semitone: [
+			"10B",
 			"12A",
 			"2A"
 		],
@@ -737,7 +846,15 @@ export default {
 			"2A",
 			"9A",
 			"12A"
-		]
+		],
+	closeEnough: [
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+	],
 
 	},
 	__7B: {
@@ -769,6 +886,7 @@ export default {
 			"9B"
 		],
 		semitone: [
+			"10A",
 			"12B",
 			"2B"
 		],
@@ -794,7 +912,15 @@ export default {
 			"2B",
 			"9B",
 			"12B"
-		]
+		],
+	closeEnough: [
+		"5A", "5B",
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+	],
 
 	},
 	__8A: {
@@ -826,6 +952,7 @@ export default {
 			"10A"
 		],
 		semitone: [
+			"11B",
 			"1A",
 			"3A"
 		],
@@ -850,7 +977,15 @@ export default {
 			"1A",
 			"3A",
 			"10A"
-		]
+		],
+	closeEnough: [
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+	],
 
 	},
 	__8B: {
@@ -882,6 +1017,7 @@ export default {
 			"10B"
 		],
 		semitone: [
+			"11A",
 			"1B",
 			"3B"
 		],
@@ -906,7 +1042,15 @@ export default {
 			"1B",
 			"3B",
 			"10B"
-		]
+		],
+	closeEnough: [
+		"6A", "6B",
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+	],
 
 	},
 	__9A: {
@@ -938,6 +1082,7 @@ export default {
 			"11A"
 		],
 		semitone: [
+			"12B",
 			"2A",
 			"4A"
 		],
@@ -962,7 +1107,15 @@ export default {
 			"2A",
 			"4A",
 			"11A"
-		]
+		],
+	closeEnough: [
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__9B: {
@@ -994,6 +1147,7 @@ export default {
 			"11B"
 		],
 		semitone: [
+			"12A",
 			"2B",
 			"4B"
 		],
@@ -1018,7 +1172,15 @@ export default {
 			"2B",
 			"4B",
 			"11B"
-		]
+		],
+	closeEnough: [
+		"7A", "7B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__10A: {
@@ -1050,6 +1212,7 @@ export default {
 			"12A"
 		],
 		semitone: [
+			"1B",
 			"3A",
 			"5A"
 		],
@@ -1074,7 +1237,15 @@ export default {
 			"3A",
 			"5A",
 			"12A"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__10B: {
@@ -1106,6 +1277,7 @@ export default {
 			"12B"
 		],
 		semitone: [
+			"1A",
 			"3B",
 			"5B"
 		],
@@ -1130,7 +1302,15 @@ export default {
 			"3B",
 			"5B",
 			"12B"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"8A", "8B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__11A: {
@@ -1162,6 +1342,7 @@ export default {
 			"1A"
 		],
 		semitone: [
+			"2B",
 			"4A",
 			"6A"
 		],
@@ -1186,7 +1367,15 @@ export default {
 			"1A",
 			"4A",
 			"6A",
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__11B: {
@@ -1218,6 +1407,7 @@ export default {
 			"1B"
 		],
 		semitone: [
+			"2A",
 			"4B",
 			"6B"
 		],
@@ -1242,7 +1432,15 @@ export default {
 			"1B",
 			"4B",
 			"6B"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"9A", "9B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__12A: {
@@ -1274,6 +1472,7 @@ export default {
 			"2A"
 		],
 		semitone: [
+			"3B",
 			"5A",
 			"7A"
 		],
@@ -1298,7 +1497,15 @@ export default {
 			"2A",
 			"5A",
 			"7A"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	},
 	__12B: {
@@ -1330,6 +1537,7 @@ export default {
 			"2B"
 		],
 		semitone: [
+			"3A",
 			"5B",
 			"7B"
 		],
@@ -1354,7 +1562,15 @@ export default {
 			"2B",
 			"5B",
 			"7B"
-		]
+		],
+	closeEnough: [
+		"1A", "1B",
+		"2A", "2B",
+		"3A", "3B",
+		"10A", "10B",
+		"11A", "11B",
+		"12A", "12B"
+	],
 
 	}
 };

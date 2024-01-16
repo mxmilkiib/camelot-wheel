@@ -8,5 +8,6 @@ export default {
 	WHOLE_TONE: "wholeTone",
 	COMPATIBLE: "compatible",
 	COMPATIBLE_AND_ENERGY_BOOST: "compatibleAndEnergyBoost",
-	ENERGY_BOOST: "energyBoost"
+	ENERGY_BOOST: "energyBoost",
+	CLOSE_ENOUGH: "closeEnough"
 };
