@@ -218,8 +218,20 @@ path.highlight {
 	fill: #7e9ff1 !important;
 }
 
+.MuiFormControlLabel-root {
+  background: #393e40;
+  border-radius: 3px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+	padding-right: 9px;
+}
+
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12 > .MuiGrid-root.MuiGrid-container.MuiGrid-justify-content-xs-center {
+  margin-bottom: 1.3rem;
+}
+
 .MuiTypography-root.MuiFormControlLabel-label.MuiTypography-body1 {
-	font-size: 2.3rem;
+	font-size: 2rem;
   margin: 0.1rem;
 }
 .MuiFormGroup-root.MuiFormGroup-row {
