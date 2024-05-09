@@ -1,8 +1,16 @@
 # Camelot Wheel
 
-A quick interactive Camelot Wheel for DJs into key matching through keys and key changes.
+A quick interactive Camelot Wheel for DJs into key matching through keys and key changes:
 
 https://harmonicwheel.vercel.app
+
+Source available on GitHub:
+
+https://github.com/mxmilkiib/camelot-wheel
+
+Based on:
+
+https://github.com/geeves/camelot-wheel
 
 ### Build Development
 
