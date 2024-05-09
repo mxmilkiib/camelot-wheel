@@ -225,8 +225,12 @@ path.highlight {
 .MuiFormControlLabel-root {
   background: #c1c1c1;
   border-radius: 3px;
-  margin: 2px 8px;
+  margin: 2px 8px !important;
 	padding-right: 9px;
+}
+
+.MuiFormControlLabel-root:hover {
+  background: #aeaeae !important;
 }
 
 .MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12 > .MuiGrid-root.MuiGrid-container.MuiGrid-justify-content-xs-center {
