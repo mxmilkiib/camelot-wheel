@@ -2,6 +2,10 @@
   color-scheme: light dark;
 }
 
+body {
+  margin: 2rem auto;
+}
+
 .MuiPaper-root.jss3.control.MuiPaper-elevation1.MuiPaper-rounded {
   background: lightgray;
 }
